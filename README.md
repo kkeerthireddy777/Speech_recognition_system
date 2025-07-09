@@ -55,6 +55,7 @@ Support additional languages with multilingual models
 Deploy as an API for integration into other apps
 
 ## Output
+![Image](https://github.com/user-attachments/assets/f74c6eee-397b-4e43-9c9d-a8f4de1bd57d)
 
 
 
